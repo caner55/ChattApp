@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="21.0.0"><source path="/Users/ci/StudioProjects/ChattApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/res"/></dataSet><dataSet config="main"><source path="/Users/ci/StudioProjects/ChattApp/app/src/main/res"><file name="actionbar_bg" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/actionbar_bg.png" qualifiers="" type="drawable"/><file name="arrow" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/arrow.png" qualifiers="" type="drawable"/><file name="back_arrow" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/back_arrow.png" qualifiers="" type="drawable"/><file name="chat_bubble_gray" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/chat_bubble_gray.png" qualifiers="" type="drawable"/><file name="chat_bubble_green" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/chat_bubble_green.png" qualifiers="" type="drawable"/><file name="editext_bg_gray" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/editext_bg_gray.png" qualifiers="" type="drawable"/><file name="edittext_bg" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/edittext_bg.png" qualifiers="" type="drawable"/><file name="green_btn" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/green_btn.png" qualifiers="" type="drawable"/><file name="ic_compose" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/ic_compose.png" qualifiers="" type="drawable"/><file name="ic_offline" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/ic_offline.png" qualifiers="" type="drawable"/><file name="ic_online" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/ic_online.png" qualifiers="" type="drawable"/><file name="ic_pwd" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/ic_pwd.png" qualifiers="" type="drawable"/><file name="ic_send" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/ic_send.png" qualifiers="" type="drawable"/><file name="ic_username" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/ic_username.png" qualifiers="" type="drawable"/><file name="icon" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/icon.png" qualifiers="" type="drawable"/><file name="logo_login" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/logo_login.png" qualifiers="" type="drawable"/><file name="user_chat1" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/user_chat1.png" qualifiers="" type="drawable"/><file name="user_chat2" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/user_chat2.png" qualifiers="" type="drawable"/><file name="chat" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/layout/chat.xml" qualifiers="" type="layout"/><file name="chat_item" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/layout/chat_item.xml" qualifiers="" type="layout"/><file name="chat_item_rcv" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/layout/chat_item_rcv.xml" qualifiers="" type="layout"/><file name="chat_item_sent" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/layout/chat_item_sent.xml" qualifiers="" type="layout"/><file name="login" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/layout/login.xml" qualifiers="" type="layout"/><file name="register" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/layout/register.xml" qualifiers="" type="layout"/><file name="user_list" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/layout/user_list.xml" qualifiers="" type="layout"/><file name="user_list" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/layout-land/user_list.xml" qualifiers="land" type="layout"/><file name="menu_main" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/menu/menu_main" qualifiers="" type="menu"/><file path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/values/color.xml" qualifiers=""><color name="white">#ffffff</color><color name="black">#000000</color><color name="transparent">#00000000</color><color name="main_color_gray_lt">#acacac</color><color name="gray_light">#e8e8e8</color><color name="main_color_blue">#ff0029b8</color><color name="main_color_gray">#7d7d7d</color><color name="main_color_gray_dk">#3b3b3b</color><color name="white_smoke">#F7F7F7</color></file><file path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="pad_20dp">20dp</dimen><dimen name="txt_16sp">16sp</dimen><dimen name="txt_18sp">18sp</dimen><dimen name="txt_20sp">20sp</dimen><dimen name="pad_30dp">30dp</dimen><dimen name="pad_15dp">15dp</dimen><dimen name="txt_14sp">14sp</dimen><dimen name="txt_7sp">7sp</dimen><dimen name="pad_10dp">10dp</dimen><dimen name="txt_13sp">13sp</dimen><dimen name="pad_chat_item">45dp</dimen><dimen name="txt_15sp">15sp</dimen><dimen name="txt_12sp">12sp</dimen><dimen name="pad_5dp">5dp</dimen><dimen name="pad_chat_item1">10dp</dimen></file><file path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/values/strings.xml" qualifiers=""><string name="search">Zoek</string><string name="action_settings">Instellingen</string><string name="my_chats">My Chats</string><string name="email">Email</string><string name="all_chats">All Chats</string><string name="to">Naar:</string><string name="or">or</string><string name="err_login">Error occurred while login:</string><string name="type_msg">Type message</string><string name="action_exit">Exit</string><string name="forgot_my_pwd">Wachtwoord vergeten?</string><string name="msg_no_user_found">No users found for chat!</string><string name="alert_loading">Laden...</string><string name="register">Registreren</string><string name="err_users">Error occurred while finding users:</string><string name="new_chat">Nieuw Chat</string><string name="edit">Bewerken</string><string name="app_name">Chatt</string><string name="err_singup">Error occurred while signup:</string><string name="action_search">Zoeken</string><string name="username">Gebruikersnaam</string><string name="log_in">Inloggen</string><string name="err_fields_empty">Vul alles in.</string><string name="password">Wachtwoord</string><string name="alert_wait">Moment geduld ...</string></file><file path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/values/styles.xml" qualifiers=""><style name="editext_white" parent="android:Widget.Holo.Light.EditText">
+        <item name="android:background">@color/white</item>
+        <item name="android:inputType">textEmailAddress</item>
+        <item name="android:paddingBottom">@dimen/pad_10dp</item>
+        <item name="android:paddingTop">@dimen/pad_10dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/txt_14sp</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+    </style><style name="btn_blue_white_bg" parent="@style/btn">
+        <item name="android:background">@color/white</item>
+        <item name="android:paddingBottom">@dimen/pad_10dp</item>
+        <item name="android:paddingRight">@dimen/pad_15dp</item>
+        <item name="android:paddingTop">@dimen/pad_10dp</item>
+        <item name="android:textColor">@color/main_color_blue</item>
+        <item name="android:textSize">@dimen/txt_16sp</item>
+    </style><style name="btn_white_large" parent="@style/btn">
+          <item name="android:background">@drawable/green_btn</item>
+          <item name="android:textColor">@color/white</item>
+          <item name="android:textSize">@dimen/txt_18sp</item>
+     </style><style name="editext_graybg" parent="android:Widget.EditText">
+          <item name="android:background">@drawable/editext_bg_gray</item>
+          <item name="android:drawablePadding">@dimen/pad_10dp</item>
+          <item name="android:ems">10</item>
+          <item name="android:inputType">textEmailAddress</item>
+          <item name="android:paddingLeft">@dimen/pad_10dp</item>
+          <item name="android:paddingRight">@dimen/pad_10dp</item>
+          <item name="android:textSize">@dimen/txt_16sp</item>
+     </style><style name="edittext_msg" parent="android:Widget.Holo.Light.EditText">
+        <item name="android:background">@drawable/edittext_bg</item>
+        <item name="android:ems">10</item>
+        <item name="android:imeActionId">100</item>
+        <item name="android:imeOptions">actionSend</item>
+        <item name="android:inputType">text</item>
+        <item name="android:layout_marginLeft">@dimen/pad_5dp</item>
+        <item name="android:layout_marginRight">@dimen/pad_5dp</item>
+        <item name="android:paddingLeft">@dimen/pad_5dp</item>
+        <item name="android:paddingRight">@dimen/pad_5dp</item>
+        <item name="android:textColorHint">@color/main_color_gray</item>
+        <item name="android:textSize">@dimen/txt_16sp</item>
+    </style><style name="btn" parent="android:Widget.Holo.Light.Button">
+        <item name="android:minHeight">1dp</item>
+        <item name="android:minWidth">1dp</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:homeAsUpIndicator">@drawable/back_arrow</item>
+    </style></file><file name="ic_action_search" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/ic_action_search.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/drawable/ic_launcher.png" qualifiers="" type="drawable"/><file path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/values/array.xml" qualifiers=""><string-array name="list">
+        <item>Optie 1</item>
+        <item>Optie 2</item>
+        <item>Optie 3</item>
+        <item>Optie 4</item>
+    </string-array><string-array name="lvalues">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+</string-array></file><file name="prefs" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/xml/prefs.xml" qualifiers="" type="xml"/><file name="chat" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/layout-land/chat.xml" qualifiers="land" type="layout"/><file name="chat_item" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/layout-land/chat_item.xml" qualifiers="land" type="layout"/><file name="chat_item_sent" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/layout-land/chat_item_sent.xml" qualifiers="land" type="layout"/><file name="chat_item_rcv" path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/layout-land/chat_item_rcv.xml" qualifiers="land" type="layout"/><file path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/values-tr/styles.xml" qualifiers="tr"><style name="btn_blue_white_bg" parent="@style/btn">
+        <item name="android:background">@color/white</item>
+        <item name="android:paddingBottom">@dimen/pad_10dp</item>
+        <item name="android:paddingRight">@dimen/pad_15dp</item>
+        <item name="android:paddingTop">@dimen/pad_10dp</item>
+        <item name="android:textColor">@color/main_color_blue</item>
+        <item name="android:textSize">@dimen/txt_16sp</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:homeAsUpIndicator">@drawable/back_arrow</item>
+    </style><style name="btn_white_large" parent="@style/btn">
+        <item name="android:background">@drawable/green_btn</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/txt_18sp</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+    </style><style name="editext_graybg" parent="android:Widget.EditText">
+        <item name="android:background">@drawable/editext_bg_gray</item>
+        <item name="android:drawablePadding">@dimen/pad_10dp</item>
+        <item name="android:ems">10</item>
+        <item name="android:inputType">textEmailAddress</item>
+        <item name="android:paddingLeft">@dimen/pad_10dp</item>
+        <item name="android:paddingRight">@dimen/pad_10dp</item>
+        <item name="android:textSize">@dimen/txt_16sp</item>
+    </style><style name="edittext_msg" parent="android:Widget.Holo.Light.EditText">
+        <item name="android:background">@drawable/edittext_bg</item>
+        <item name="android:ems">10</item>
+        <item name="android:imeActionId">100</item>
+        <item name="android:imeOptions">actionSend</item>
+        <item name="android:inputType">text</item>
+        <item name="android:layout_marginLeft">@dimen/pad_5dp</item>
+        <item name="android:layout_marginRight">@dimen/pad_5dp</item>
+        <item name="android:paddingLeft">@dimen/pad_5dp</item>
+        <item name="android:paddingRight">@dimen/pad_5dp</item>
+        <item name="android:textColorHint">@color/main_color_gray</item>
+        <item name="android:textSize">@dimen/txt_16sp</item>
+    </style><style name="editext_white" parent="android:Widget.Holo.Light.EditText">
+        <item name="android:background">@color/white</item>
+        <item name="android:inputType">textEmailAddress</item>
+        <item name="android:paddingBottom">@dimen/pad_10dp</item>
+        <item name="android:paddingTop">@dimen/pad_10dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/txt_14sp</item>
+    </style><style name="btn" parent="android:Widget.Holo.Light.Button">
+        <item name="android:minHeight">1dp</item>
+        <item name="android:minWidth">1dp</item>
+    </style></file><file path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/values-tr/dimens.xml" qualifiers="tr"><dimen name="pad_chat_item">45dp</dimen><dimen name="pad_30dp">30dp</dimen><dimen name="pad_chat_item1">10dp</dimen><dimen name="txt_13sp">13sp</dimen><dimen name="txt_16sp">16sp</dimen><dimen name="txt_7sp">7sp</dimen><dimen name="txt_14sp">14sp</dimen><dimen name="txt_20sp">20sp</dimen><dimen name="txt_12sp">12sp</dimen><dimen name="txt_15sp">15sp</dimen><dimen name="pad_20dp">20dp</dimen><dimen name="pad_5dp">5dp</dimen><dimen name="txt_18sp">18sp</dimen><dimen name="pad_10dp">10dp</dimen><dimen name="pad_15dp">15dp</dimen></file><file path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/values-tr/strings.xml" qualifiers="tr"><string name="to">Icin:</string><string name="my_chats">Benim Chats</string><string name="action_search">Ara</string><string name="msg_no_user_found">Kullanici bulunamadi chat icin!</string><string name="alert_loading">Yukleniyor...</string><string name="action_settings">Ayarlar</string><string name="password">Parola</string><string name="username">Kullanici</string><string name="email">Email</string><string name="type_msg">Masaji yaz</string><string name="action_exit">Cikis</string><string name="err_fields_empty">Herseyi doldur.</string><string name="err_users">Kullanici ararken hata olustu:</string><string name="or">yada</string><string name="app_name">Chatt</string><string name="edit">Degistir</string><string name="register">Kayit</string><string name="err_login">Oturum acarken hata olustu:</string><string name="all_chats">Butun Chats</string><string name="search">Ara</string><string name="alert_wait">Bi saniye ...</string><string name="log_in">Oturum ac</string><string name="forgot_my_pwd">Parola unutma?</string><string name="err_singup">Kayit sirasinda hata olustu:</string><string name="new_chat">Yeni Chat</string></file><file path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/values-tr/array.xml" qualifiers="tr"><string-array name="list">
+        <item>Secenek 1</item>
+        <item>Secenek 2</item>
+        <item>Secenek 3</item>
+        <item>Secenek 4</item>
+    </string-array><string-array name="lvalues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array></file><file path="/Users/ci/StudioProjects/ChattApp/app/src/main/res/values-tr/color.xml" qualifiers="tr"><color name="transparent">#00000000</color><color name="white">#ffffff</color><color name="black">#000000</color><color name="gray_light">#e8e8e8</color><color name="main_color_blue">#ff0029b8</color><color name="white_smoke">#F7F7F7</color><color name="main_color_gray_lt">#acacac</color><color name="main_color_gray_dk">#3b3b3b</color><color name="main_color_gray">#7d7d7d</color></file></source><source path="/Users/ci/StudioProjects/ChattApp/app/build/generated/res/rs/debug"/><source path="/Users/ci/StudioProjects/ChattApp/app/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/Users/ci/StudioProjects/ChattApp/app/src/debug/res"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chatt</string>
+    <string name="type_msg">Typ bericht</string>
+    
+    <string name="or">or</string>
+    <string name="email">Email</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="password">Wachtwoord</string>
+    <string name="register">Registreren</string>
+    <string name="log_in">Inloggen</string>
+    <string name="forgot_my_pwd">Wachtwoord vergeten?</string>
+    <string name="my_chats">Mijn Chats</string>
+    <string name="all_chats">Alle Chats</string>
+    <string name="search">Zoek</string>
+    <string name="action_search">Zoeken</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="action_exit">Exit</string>
+    <string name="to">Naar:</string>
+    <string name="edit">Bewerken</string>
+    <string name="new_chat">Nieuw Chat</string>
+    <string name="alert_wait">Moment geduld ...</string>
+    <string name="err_fields_empty">Vul alles in.</string>
+    <string name="err_singup">Error tijdens registreren:</string>
+    <string name="err_login">Error tijdens inloggen:</string>
+    <string name="err_users">Error tijdens vinden gebruikers:</string>
+<string name="alert_loading">Laden...</string>
+<string name="msg_no_user_found">Geen gebruikers gevonden om te chatten!</string>
+    <string name="edit_text">Bewerk Text</string>
+    <string name="check_box">CheckBox</string>
+    <string name="lijst">Lijst</string>
+
+
+</resources>

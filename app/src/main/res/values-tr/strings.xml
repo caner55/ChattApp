@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chatt</string>
+    <string name="type_msg">Masaji yaz</string>
+
+    <string name="or">yada</string>
+    <string name="email">Email</string>
+    <string name="username">Kullanici</string>
+    <string name="password">Parola</string>
+    <string name="register">Kayit</string>
+    <string name="log_in">Oturum ac</string>
+    <string name="forgot_my_pwd">Parola unutma?</string>
+    <string name="my_chats">Benim Chats</string>
+    <string name="all_chats">Butun Chats</string>
+    <string name="search">Ara</string>
+    <string name="action_search">Ara</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="action_exit">Cikis</string>
+    <string name="to">Icin:</string>
+    <string name="edit">Degistir</string>
+    <string name="new_chat">Yeni Chat</string>
+    <string name="alert_wait">Bi saniye ...</string>
+    <string name="err_fields_empty">Herseyi doldur.</string>
+    <string name="err_singup">Kayit sirasinda hata olustu:</string>
+    <string name="err_login">Oturum acarken hata olustu:</string>
+    <string name="err_users">Kullanici ararken hata olustu:</string>
+    <string name="alert_loading">Yukleniyor...</string>
+    <string name="msg_no_user_found">Kullanici bulunamadi chat icin!</string>
+    <string name="edit_text">Yaziyi Degistir</string>
+    <string name="check_box">Onay Kutusu</string>
+    <string name="lijst">Liste</string>
+
+
+</resources>

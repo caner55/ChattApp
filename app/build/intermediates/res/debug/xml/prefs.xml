@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:title="WijzigText"
+        android:key="naam"
+        android:summary="Vul Je Naam In">
+    </EditTextPreference>
+
+    <CheckBoxPreference
+        android:title="CheckBox"
+        android:defaultValue="false"
+        android:key="kiesbox"
+        android:summary="check list" />
+
+<ListPreference
+android:title="lijst"
+android:key="lijstweergave"
+android:summary="Een lijst om te kiezen"
+android:entries="@array/list"
+    android:entryValues="@array/lvalues">
+</ListPreference>
+
+</PreferenceScreen><!-- From: file:/Users/ci/StudioProjects/ChattApp/app/src/main/res/xml/prefs.xml -->

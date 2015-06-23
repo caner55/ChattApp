@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ci/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/ci/StudioProjects/ChattApp/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-5b75a8cdb112a619cba9d968a232e62a19443c65.jar" />
+    </item>
+    <item
+        jar="/Users/ci/StudioProjects/ChattApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/ci/StudioProjects/ChattApp/app/build/intermediates/pre-dexed/debug/classes-52dddefd6e943b027430f0d9aa5181eabd9bdae0.jar" />
+    </item>
+    <item
+        jar="/Users/ci/StudioProjects/ChattApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/ci/StudioProjects/ChattApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-c6e48fdf7f7cf339f9510a981592bcc93927be32.jar" />
+    </item>
+    <item
+        jar="/Users/ci/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/ci/StudioProjects/ChattApp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-57c799fbe8a7921319f84a540ea4dc46951b1e62.jar" />
+    </item>
+    <item
+        jar="/Users/ci/StudioProjects/ChattApp/app/libs/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/Users/ci/StudioProjects/ChattApp/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-00e2f11478a4d900ca10b90b63dc7f546978b6d5.jar" />
+    </item>
+
+</items>
